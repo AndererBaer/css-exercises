@@ -1,0 +1,20 @@
+/* css */
+
+.oddnum {
+    background-color: rgb(182, 71, 89);
+    font-family : "Verdana","DejaVu Sans","sans-serif";
+}
+
+.thirde {
+    font-size: 24px;
+}
+
+#sece {
+    color:blue;
+    font-size: 36px;
+}
+
+#forthe {
+    background-color: rgb(125, 201, 11);
+    font-weight: bold;
+}
